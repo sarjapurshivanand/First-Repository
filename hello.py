@@ -1,3 +1,6 @@
 print("Hello World")
 print("This is a simple file")
 print("this code is edited by: Rahul")
+print("this file is created for the testing purpose only")
+print("disclaimer")
+print("do not use this code for the external use")
